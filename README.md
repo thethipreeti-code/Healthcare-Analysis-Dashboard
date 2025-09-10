@@ -2,7 +2,7 @@
 📊 **Healthcare-Analysis-Dashboard**
 📌 **Project Overview**
 
-**This project analyzes hospital data to track appointments, revenue, payments, branches, and doctors’ performance. The dashboard not only shows numbers but also provides insights and actionable recommendations to improve patient care and financial health.**
+This project analyzes hospital data to track appointments, revenue, payments, branches, and doctors’ performance. The dashboard not only shows numbers but also provides insights and actionable recommendations to improve patient care and financial health.
 
 **Tools used:**
 Excel → Data cleaning & preprocessing
@@ -21,7 +21,11 @@ Peak Months: September & May (require staff planning)
 
 📈 **Dashboard Preview**
 
-
+https://github.com/thethipreeti-code/Healthcare-Analysis-Dashboard/blob/main/Screenshot%20(24).png
+https://github.com/thethipreeti-code/Healthcare-Analysis-Dashboard/blob/main/Screenshot%20(25).png
+https://github.com/thethipreeti-code/Healthcare-Analysis-Dashboard/blob/main/Screenshot%20(26).png
+https://github.com/thethipreeti-code/Healthcare-Analysis-Dashboard/blob/main/Screenshot%20(29).png
+https://github.com/thethipreeti-code/Healthcare-Analysis-Dashboard/blob/main/Screenshot%20(30).png
 
 ✅ **Key Insights**
 
