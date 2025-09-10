@@ -21,11 +21,15 @@ Peak Months: September & May (require staff planning)
 
 📈 **Dashboard Preview**
 
-https://github.com/thethipreeti-code/Healthcare-Analysis-Dashboard/blob/main/Screenshot%20(24).png
-https://github.com/thethipreeti-code/Healthcare-Analysis-Dashboard/blob/main/Screenshot%20(25).png
-https://github.com/thethipreeti-code/Healthcare-Analysis-Dashboard/blob/main/Screenshot%20(26).png
-https://github.com/thethipreeti-code/Healthcare-Analysis-Dashboard/blob/main/Screenshot%20(29).png
-https://github.com/thethipreeti-code/Healthcare-Analysis-Dashboard/blob/main/Screenshot%20(30).png
+![Executive Overview](https://github.com/thethipreeti-code/Healthcare-Analysis-Dashboard/blob/main/Screenshot%20(24).png)
+
+![Patient Insights](https://github.com/thethipreeti-code/Healthcare-Analysis-Dashboard/blob/main/Screenshot%20(25).png)
+
+![Appointment Analysis](https://github.com/thethipreeti-code/Healthcare-Analysis-Dashboard/blob/main/Screenshot%20(26).png)
+
+![Doctor & Treatment Insights](https://github.com/thethipreeti-code/Healthcare-Analysis-Dashboard/blob/main/Screenshot%20(29).png)
+
+![Financial Insights](https://github.com/thethipreeti-code/Healthcare-Analysis-Dashboard/blob/main/Screenshot%20(30).png)
 
 ✅ **Key Insights**
 
